@@ -12,6 +12,11 @@
     position: absolute;
 }
 
+.table-responsive
+{
+    overflow-x: auto;
+}
+
 .alert{
     margin-top: 15px;
 }
